@@ -1,0 +1,1 @@
+print("Zdravstvuy, World!")
